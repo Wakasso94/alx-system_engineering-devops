@@ -1,1 +1,5 @@
-This repository is my first project shell in ALX
+
+|   ALX SE   |   Shell  |
+| :--------: | -------- |
+|Let's Enjoy With Shell      | Life in Script      |
+  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
